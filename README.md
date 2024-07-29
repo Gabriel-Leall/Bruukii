@@ -4,7 +4,7 @@
 ⋄ Diretor Financeiro da Empresa Júnior de Tecnologia - Juá Soluções TI - UFPI
 
 ![Bruukii GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruukii&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruukii&hide_progress=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruukii&layout=compact&theme=midnight-purple)
 
 
 ### Tecnologias Usadas
